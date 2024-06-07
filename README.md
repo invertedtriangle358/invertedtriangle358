@@ -1,4 +1,4 @@
-## Hi there 👋
+## やぁ 👋
 
 <!--
 **invertedtriangle358/invertedtriangle358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
